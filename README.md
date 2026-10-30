@@ -1,5 +1,5 @@
 l give title watch.
-l also give class ="navbar-brand" href="#">Smartvue
+l also give class ="navbar-brand" href Smartvue
 Home.
 features.
 Contact.
@@ -13,3 +13,4 @@ And l class col-md-6 hero-image text-center.
 src="d:\Shahiii\54099c72-98cc-464d-aa37-b87239af53c1 (1).webp"
 alt="Modern wireless headphones"
 class="img-fluid product-image"
+
